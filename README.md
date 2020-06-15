@@ -316,3 +316,26 @@ sudo apt-get install nmap
 ```bash
 ssh -vvv pi@rasp0.local
 ```
+
+#### LINKS
+
+Install Apache Spark on EC2 instances
+https://maelfabien.github.io/bigdata/Spark/#
+
+Connect from a Mac
+https://www.dexterindustries.com/getting-started/using-the-pi/connect-to-your-raspberry-pi-from-a-mac/
+
+How to Assign Static IP Address on Raspberry Pi
+https://accidentaltechnologist.com/raspberry-pi/how-to-assign-static-ip-address-on-raspberry-pi/
+
+Building a Raspberry Pi Hadoop / Spark Cluster
+https://dev.to/awwsmm/building-a-raspberry-pi-hadoop-spark-cluster-8b2#hadoopspark
+
+How (and Why) to Assign the .local Domain to Your Raspberry Pi
+https://www.howtogeek.com/167190/how-and-why-to-assign-the-.local-domain-to-your-raspberry-pi/
+
+Setting up SSH Keys on the Raspberry Pi
+https://www.raspberrypi-spy.co.uk/2019/02/setting-up-ssh-keys-on-the-raspberry-pi/
+
+Make your very own Kubernetes cluster from a Raspberry PI
+https://medium.com/nycdev/k8s-on-pi-9cc14843d43
